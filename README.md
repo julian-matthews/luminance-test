@@ -1,5 +1,5 @@
 # LUMINANCE TEST
-Cycles through **white**, **grey**, and **black** luminance indices for photometric measurement.
+Cycles through **white**, **grey**, and **black** luminance indices for photometric measurement in **MATLAB + PSYCHTOOLBOX**.
 Current luminance level is displayed to left of screen. Results are printed to command window.
 
 ### KEYBOARD FUNCTIONS
